@@ -1,5 +1,6 @@
-<!-- BANNER --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182235,50:34445F,100:71839D&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=28&fontColor=F0F3F8&fontAlignY=40" width="100%" />
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
 
 </p>---
 
