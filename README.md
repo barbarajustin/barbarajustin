@@ -17,10 +17,10 @@ Tenho interesse em tecnologia, UX/UI design e Dados. Estou sempre buscando apren
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql,figma,git,github,vscode" />
 </p>---
 
-✦ Areas of Interest
+✦ Áreas de Interesse
 
 <p align="center">
-  🎨 UX/UI Design &nbsp; • &nbsp; 📊 Data &nbsp; • &nbsp; 💻 Technology
+  🎨 UX/UI Design &nbsp; • &nbsp; 📊 Dados &nbsp;
 </p>---
 
 ☽ Projetos
