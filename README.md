@@ -3,7 +3,7 @@
 
 </p>---
 
-☾ About me
+☾ Sobre mim
 
 Olá! Meu nome é Barbara Bastos Justin, graduanda em Sistemas de Informação e técnica em Informática em formação.
 
@@ -11,7 +11,7 @@ Tenho interesse em tecnologia, UX/UI design e Dados. Estou sempre buscando apren
 
 ---
 
-✧ Technologies
+✧ Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql,figma,git,github,vscode" />
@@ -23,14 +23,14 @@ Tenho interesse em tecnologia, UX/UI design e Dados. Estou sempre buscando apren
   🎨 UX/UI Design &nbsp; • &nbsp; 📊 Data &nbsp; • &nbsp; 💻 Technology
 </p>---
 
-☽ Projects
+☽ Projetos
 
 <p align="center">
   ✧ Sistema de agendamento da Sala de Vídeo:
     Projeto desenvolvido como trabalho de conclusão do curso Técnico em Informática utilizando Claude e Firebase, construído para solucionar uma necessidade do ambiente escolar.
 </p>---
 
-✧ Contact
+✧ Contatos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/barbara-bastos-justin-a8a4a6313">
