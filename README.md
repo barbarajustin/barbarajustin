@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://giphy.com" alt="Moonlight Flower Petals" width="100%" />
 </p>
+
 
 </p>---
 
