@@ -1,7 +1,6 @@
 <!-- BANNER --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182235,50:34445F,100:71839D&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=28&fontColor=F0F3F8&fontAlignY=40" width="100%" />
-</p><!-- APRESENTAÇÃO ANIMADA --><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=AABBD4&center=true&vCenter=true&width=600&lines=Graduanda+em+Sistemas+de+Informação;Técnica+em+Informática+em+formação;Explorando+UX%2FUI+Design+e+Dados" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182235,50:34445F,100:71839D&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=28&fontColor=F0F3F8&fontAlignY=40" width="100%" />"
+
 </p>---
 
 ☾ About me
