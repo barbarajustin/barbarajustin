@@ -2,7 +2,6 @@
   <img src="https://giphy.com" alt="Moonlight Flower Petals" width="100%" />
 </p>
 
-
 </p>---
 
 ☾ Sobre mim
