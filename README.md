@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- BANNER --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182235,50:34445F,100:71839D&height=180&section=header&text=Welcome%20to%20my%20universe&fontSize=28&fontColor=F0F3F8&fontAlignY=40" width="100%" />
+</p><!-- APRESENTAÇÃO ANIMADA --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=AABBD4&center=true&vCenter=true&width=600&lines=Graduanda+em+Sistemas+de+Informação;Técnica+em+Informática+em+formação;Explorando+UX%2FUI+Design+e+Dados" />
+</p>---
 
-<!--
-**barbarajustin/barbarajustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☾ About me
 
-Here are some ideas to get you started:
+Olá! Meu nome é Barbara Bastos Justin, graduanda em Sistemas de Informação e técnica em Informática em formação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em tecnologia, UX/UI design e Dados. Estou sempre buscando aprender, desenvolver habilidades e explorar novas possibilidades profissionais.
+
+---
+
+✧ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,figma,git,github,vscode" />
+</p>---
+
+✦ Areas of Interest
+
+<p align="center">
+  🎨 UX/UI Design &nbsp; • &nbsp; 📊 Data &nbsp; • &nbsp; 💻 Technology
+</p>---
+
+☽ Projects
+
+<p align="center">
+  ✧ Sistema de agendamento da Sala de Vídeo:
+    Projeto desenvolvido como trabalho de conclusão do curso Técnico em Informática utilizando Claude e Firebase, construído para solucionar uma necessidade do ambiente escolar.
+</p>---
+
+✧ Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/barbara-bastos-justin-a8a4a6313">
+    <img src="https://img.shields.io/badge/LinkedIn-34445F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:barbarabastosj@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-465A78?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>---
+
+<p align="center">
+  <i>✦ Sempre aprendendo, explorando e descobrindo novos caminhos. ✦</i>
+</p><p align="center">
+  ☾
+</p>
