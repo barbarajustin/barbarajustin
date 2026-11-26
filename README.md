@@ -27,10 +27,8 @@ Tenho interesse em tecnologia, UX/UI design e Dados. Estou sempre buscando apren
 ☾ Projetos
 
 
-✧ Sistema de agendamento da Sala de Vídeo:
-<p>
-Projeto desenvolvido como trabalho de conclusão do curso Técnico em Informática utilizando Claude e Firebase, construído para solucionar uma necessidade do ambiente escolar.
-</p>
+✧ Sistema de agendamento da Sala de Vídeo:<br>Projeto desenvolvido como trabalho de conclusão do curso Técnico em Informática utilizando Claude e Firebase, construído para solucionar uma necessidade do ambiente escolar.
+</br>
 </p>---
 
 ✧ Contatos
