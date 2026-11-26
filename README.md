@@ -23,7 +23,7 @@ Tenho interesse em tecnologia, UX/UI design e Dados. Estou sempre buscando apren
   🎨 UX/UI Design &nbsp; • &nbsp; 📊 Dados &nbsp;
 </p>---
 
-☽ Projetos
+☾ Projetos
 
 <p align="center">
   ✧ Sistema de agendamento da Sala de Vídeo:
